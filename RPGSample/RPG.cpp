@@ -25,6 +25,7 @@ void DisplayMainMenu()
 	cout << "Chose one action below: " << endl;
 	cout << "1 - Fight random monster" << endl;
 	cout << "2 - View Inventory monster" << endl;
+	cout << "3 - Exit" << endl;
 }
 
 void Fight(NPC npc1, NPC npc2)
